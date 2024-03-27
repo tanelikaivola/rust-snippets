@@ -7,7 +7,7 @@ Adds cli functionality.
 Default features for clap, sans color.
 
 ```sh,ignore
-cargo add --no-default-features -F derive,cargo,error-context,help,std,suggestions,usage
+cargo add clap --no-default-features -F derive,cargo,error-context,help,std,suggestions,usage
 ```
 
 ## main.rs
