@@ -1,0 +1,6 @@
+[book]
+authors = ["Taneli Kaivola"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust Snippets"
