@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Rust Snippets"
+
+[output.html]
+git-repository-url = "https://github.com/tanelikaivola/rust-snippets/tree/main/"
+edit-url-template = "https://github.com/tanelikaivola/rust-snippets/edit/main/{path}"
