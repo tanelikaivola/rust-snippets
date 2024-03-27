@@ -10,3 +10,4 @@
 - [eyre](https://crates.io/crates/eyre)
 - [thiserror](https://crates.io/crates/thiserror)
 - [tracing](https://crates.io/crates/tracing)
+- [serde](https://crates.io/crates/serde) and [serde_json](https://crates.io/crates/serde_json)
