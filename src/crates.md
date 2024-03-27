@@ -5,7 +5,7 @@
 - [Blessed.rs](https://blessed.rs/crates)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 
-## Single crates that are likely be included in snippets
+## Crates that are likely be included in snippets
 
 - [eyre](https://crates.io/crates/eyre)
 - [thiserror](https://crates.io/crates/thiserror)
