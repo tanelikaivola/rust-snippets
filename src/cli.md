@@ -6,13 +6,13 @@ Adds cli functionality.
 
 Default features for clap, sans color.
 
-```
+```sh,ignore
 cargo add --no-default-features -F derive,cargo,error-context,help,std,suggestions,usage
 ```
 
 ## main.rs
 
-```
+```rust,ignore
 mod cli;
 use cli::{Cli, Parser};
 
@@ -24,7 +24,7 @@ fn main() {
 
 ## cli.rs
 
-```
+```rust,ignore
 pub use clap::Parser;
 use std::path::PathBuf;
 
